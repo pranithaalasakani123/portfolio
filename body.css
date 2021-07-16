@@ -8,7 +8,7 @@ font-family: 'Benne', serif;
 body{
 color: white;
 line-height: 1.5;
-background:linear-gradient(-45deg,#ff0000,#ffa500,#4b0082,#008000,#0000ff,#4b0082,#ee82ee);
+background-color:rgba(51, 51, 51, 1.00);
 overflow-x: hidden;
 }
 a{
